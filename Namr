@@ -1,7 +1,19 @@
-[16/02, 8:19 pm] Ashwani Miss: 7.Search an element in an array. 
-8.Perform string manipulations   :                                                                                                                                                                      i. Find the length of the string                                                                                                                                                                                 ii. Character at second and  fourth position                                                                                                                                                          iii. Find the sub string using start index only                                                                                                                                                  iv. Find the sub string using   start index and end index                                                                                                                             v. concatenate a given string to the end of another string.                                                                                                                                 vi.convert all characters in a string to lowercase.                                                                                                                                      vii. convert all characters in a string to uppercase.
-9.) Write a java program to                                                                                                                                                                                i. check whether a given string is palindrome or not.                                                                                                                                        ii.sorting a   given list of names in ascending order
-[16/02, 8:31 pm] Ashwani Miss: 8 th program output be like                                                                                                                                                                                                                Enter first string: helloworld
+7.Search an element in an array. 
+8.Perform string manipulations   :    
+i. Find the length of the string      
+ii. Character at second and  fourth position  
+iii. Find the sub string using start index only    
+iv. Find the sub string using   start index and end index 
+v. concatenate a given string to the end of another string.   
+vi.convert all characters in a string to lowercase.     
+vii. convert all characters in a string to uppercase.
+
+9.) Write a java program to  
+i. check whether a given string is palindrome or not. 
+ii.sorting a   given list of names in ascending order
+
+8 th program output be like    
+Enter first string: helloworld
 Enter second string (for concatenation): jaba program
 Length of first string : 10
 2nd character: e
